@@ -5,30 +5,47 @@
     build-mode="FULL"
     density="xhdpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
     plugin-version="3.2.1"
-    timestamp="1541224777438"
+    timestamp="1541295768291"
     token="-2903623894019048251"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="9922" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="5202" />
+        duration="0" />
     <task
         name="verifier"
-        duration="435" />
+        duration="0" />
 
+    <artifact
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        type="SPLIT" />
     <artifact
         location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -37,25 +54,7 @@
         location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
@@ -63,14 +62,31 @@
 
     <build
         build-mode="FULL"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1541224777438"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1541295768291"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -79,25 +95,7 @@
             location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\William\AndroidStudioProjects\CriminalIntent\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
